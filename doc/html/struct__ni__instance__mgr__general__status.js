@@ -1,0 +1,28 @@
+var struct__ni__instance__mgr__general__status =
+[
+    [ "active_hwupload_sub_inst_cnt", "struct__ni__instance__mgr__general__status.html#a4ed7df0e828fb3f793bb25922effc39e", null ],
+    [ "active_sub_instances_cnt", "struct__ni__instance__mgr__general__status.html#a0bf64d9cad8fedc9cd98c89caafb85b9", null ],
+    [ "active_sub_instances_cnt_overall", "struct__ni__instance__mgr__general__status.html#ae1c78a6869e3ae8621a11d71627d4074", null ],
+    [ "admin_nsid", "struct__ni__instance__mgr__general__status.html#ae0438af3f4143c8ad85870d36b083a5d", null ],
+    [ "cmd_queue_count", "struct__ni__instance__mgr__general__status.html#a5733ad5ab1fdf9eff125ecd4f1e5f146", null ],
+    [ "error_count", "struct__ni__instance__mgr__general__status.html#a2029e9c9788de523ece2dabbc7ffe2c7", null ],
+    [ "fatal_error", "struct__ni__instance__mgr__general__status.html#aec5d00cffd5f2616c9ea9a15e76f293d", null ],
+    [ "fw_load", "struct__ni__instance__mgr__general__status.html#ac70b56e7441f2f5f431e743250919fdb", null ],
+    [ "fw_model_load", "struct__ni__instance__mgr__general__status.html#a6e8ba5bf553e52fd32116f7402a8ae66", null ],
+    [ "fw_model_load_overall", "struct__ni__instance__mgr__general__status.html#a0ac338a01baca3b59ebec3d6da9b4f44", null ],
+    [ "fw_p2p_mem_usage", "struct__ni__instance__mgr__general__status.html#a5570faaf8ae6582105e73ae3ae850330", null ],
+    [ "fw_share_mem_usage", "struct__ni__instance__mgr__general__status.html#af49a8699f6cbfbddd0618bd3b364e6fb", null ],
+    [ "fw_video_mem_usage", "struct__ni__instance__mgr__general__status.html#adbc095088be9a83c11c073368096afba", null ],
+    [ "fw_video_shared_mem_usage", "struct__ni__instance__mgr__general__status.html#a79e47843d5454ff12c3cfc4821edea33", null ],
+    [ "pcie_load", "struct__ni__instance__mgr__general__status.html#af02bec371a57fd9bbea34d402ce961bb", null ],
+    [ "pcie_throughput", "struct__ni__instance__mgr__general__status.html#a249035e7c5e60bae07bb34e23e30358d", null ],
+    [ "process_load_percent", "struct__ni__instance__mgr__general__status.html#a1da1b7243a38cf621b15dae2123d4763", null ],
+    [ "process_load_percent_overall", "struct__ni__instance__mgr__general__status.html#ab32c27796191506c6996b0b9a902b4ae", null ],
+    [ "process_load_percent_upper", "struct__ni__instance__mgr__general__status.html#a0e3e43ca5e116db89ceff9d4d48e0130", null ],
+    [ "tp_fw_load", "struct__ni__instance__mgr__general__status.html#a48f63210950421a68c0ed70c91e8627f", null ],
+    [ "ui32UploadRate", "struct__ni__instance__mgr__general__status.html#a953cf959b15870a4cce42f87bd8e3051", null ],
+    [ "unusedPadding1", "struct__ni__instance__mgr__general__status.html#a3729a5272f2fade605f46c2b25663eb8", null ],
+    [ "unusedPadding2", "struct__ni__instance__mgr__general__status.html#aadc17e8e47c2dd67f2bcc13247ef7c83", null ],
+    [ "unusedPadding3", "struct__ni__instance__mgr__general__status.html#a9dee0aefd74eca2e3f43c87c36e7a5bb", null ],
+    [ "unusedPadding4", "struct__ni__instance__mgr__general__status.html#aba208134e70bda96012cd063f9473039", null ]
+];
